@@ -65,6 +65,7 @@ Below is a series of commands to run each application and its url
 
 ![image](https://github.com/ReneKubax/Gadget-Zone--Eccomerce/assets/97212849/b65d6486-42c2-4110-8742-3fa4ee49d33a)
 
+![image](https://github.com/ReneKubax/Gadget-Zone--Eccomerce/assets/97212849/9665506c-a944-4edc-aabb-4ae056eb57bc)
 
 
 
