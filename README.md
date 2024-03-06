@@ -40,8 +40,8 @@ This project requires Node.js to execute its functionalities. We recommend using
 ## 🚀 Run Project
 
 1. Move to the appropriate directory: `cd gadget-zone`.<br />
-2. Run `npm i.
-3. Run `npm run dev` (Default Application on PORT 3000).
+2. Run `npm i`.
+3. Run `npm start` (Default Application on PORT 3000).
 
 Below is a series of commands to run each application and its url
 
