@@ -18,9 +18,9 @@ const ProductProvider = ({ children }) => {
     const fetchProducts = async () => {
       setIsLoading(true);
       try {
-        const response = await fetch("https://fakestoreapi.com/products/sasda/dsa");
+        const response = await fetch("https://fakestoreapi.com/products");
         if (!response.ok) {
-          throw new Error('Error fetching products');
+          throw new Error('Error when ordering products from the server');
         }
         const data = await response.json();
         setProducts(data);
