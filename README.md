@@ -9,7 +9,7 @@
 
 # Description
 
-Frontend side for Gadget Zone  application. 
+Frontend side for Gadget Zone application responsive. 
 
 ## Built With
 
@@ -48,10 +48,27 @@ Below is a series of commands to run each application and its url
 | APPLICATION  | URL                                 | COMMAND           | PORT |
 | ------------ | ----------------------------------- | ----------------- | ---- |
 | GadgetZone  | http://localhost:3000/    | npm start | 3000 |
+| GadgetZone in live | https://gadget-zone-rene.vercel.app/   | - | - |
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
+<!-- Images -->
 
+## 📷 Images
+
+![image](https://github.com/ReneKubax/Gadget-Zone--Eccomerce/assets/97212849/0e448b05-6c4a-4ab6-9d41-81d2afbbef0a)
+
+![image](https://github.com/ReneKubax/Gadget-Zone--Eccomerce/assets/97212849/e154604b-365c-434d-a9c8-21caf96a117c)
+
+![image](https://github.com/ReneKubax/Gadget-Zone--Eccomerce/assets/97212849/955ef9df-e878-4412-b6e3-df63800a04d0)
+
+![image](https://github.com/ReneKubax/Gadget-Zone--Eccomerce/assets/97212849/b65d6486-42c2-4110-8742-3fa4ee49d33a)
+
+
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## ✅ Code Conventions
 
@@ -78,7 +95,7 @@ Below is a series of commands to run each application and its url
 
 <table>
   <tr>
-     <td align="center"><a href="https://github.com/johann-sonntagbauer"><img src="https://lh7-us.googleusercontent.com/cdumdpS82APfMtRociVe7nIRT83FOb7p31PE3ltCx7turBdf8FDY-bFPDd3gFEC0cD0G3vo96kARseIBAVzx_qXT-g6luouj5OrR-moSkB6ZMeaU3pn81g0VpJ72H8m8wwk7PLODE81LHOQRE9FGcYX1Sw=s2048" width="100px;" height="auto" alt="Rene Fuentes"/><br /><sub><b>Rene Fuentes</b></sub></a></td>
+     <td align="center"><a href="https://github.com/johann-sonntagbauer"><img src="https://github.com/ReneKubax" width="100px;" height="auto" alt="Rene Fuentes"/><br /><sub><b>Rene Fuentes</b></sub></a></td>
       
   </tr>
 </table>
